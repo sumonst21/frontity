@@ -45,11 +45,11 @@
     "envinfo": "^7.3.1",
     "fs-extra": "^7.0.1",
     "inquirer": "^6.3.1",
-    "node-fetch": "^2.4.1",
+    "node-fetch": "^3.3.2",
     "ora": "^3.4.0",
     "ramda": "^0.26.1",
     "react-helmet": "^5.2.1",
-    "tar": "^4.4.8",
+    "tar": "^7.5.9",
     "ts-node": "^8.0.3",
     "typescript": "^3.4.5"
   },
